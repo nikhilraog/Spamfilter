@@ -12,12 +12,13 @@ Download and unzip the folder containg the files of Naive Bayes program : NBMain
 Input Folder Structure : Example
 ------------------------------------------------
 	         F:\temp
-		   test
-	                           \spam
-		          \ham
-	                     train\spam
-		          \ham
-	                     stopwords.txt
+		   	\test
+	                      \spam
+		               \ham
+	                 \train
+	                       \spam
+		                \ham
+	                 stopwords.txt
 -------------------------------------------------
 **Main Driver program - NaiveBayes.java
 
