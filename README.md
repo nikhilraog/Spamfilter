@@ -11,7 +11,7 @@ Download and unzip the folder containg the files of Naive Bayes program : NBMain
 
 Input Folder Structure : Example
 ------------------------------------------------
-	         F:\temp
+	F:\temp
 		   	\test
 	                      \spam
 		               \ham
@@ -57,5 +57,5 @@ Example: java LRMain no 0.01 .01 10
 **********------------------------------------------------****************
 
 Please note in case og Logistic regression, the program take lot of time to complete execution.
-I did test run on Amazon ec2 to get its executaion speed up.
+I did test run on Amazon ec2 to get its execution speed up.
 
